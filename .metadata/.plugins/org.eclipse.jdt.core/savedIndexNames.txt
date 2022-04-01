@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Criando um Banco Digital com Java e Orientação a Objetos\.metadata\.plugins\org.eclipse.jdt.core
+1500901741.index
+3178273208.index
+805291828.index
+3196195750.index
+1719531320.index
+1170268186.index
+809322125.index
